@@ -1,0 +1,8 @@
+## Reglas para nombres de variables y funciones en Python:
+
+- Solo reglas del alfabeto inglés (ni ñ ni tildes)
+- El único caracter adicional es el guión bajo "_"
+- Números combinados con letras (name4, casa3carro, _casa6)
+- El primer caracter no puede ser un número (4name)
+- Diferencia entre mayúsculas y minúsculas (casa dif Casa)
+- No se pueden usar palabras reservadas del lenguaje Python (print, input, type, len, str, int, float)
