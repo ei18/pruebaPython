@@ -1,0 +1,6 @@
+##Tipos de datos:
+
+- Números enteros (int, integer)
+- Números con decimales, reales (float)
+- Booleano: verdadero o falso, True or False (bool)
+- Caracteres o cadena de caracteres (strings, str)
